@@ -10,7 +10,7 @@ OAuth/JWT, SSRF, загрузка файлов, гонки, кэш, атаки �
 ## Установка
 
 ```bash
-git clone https://github.com/novikovartem51-pixel/valera-ohrana ~/.claude/skills/valera-ohrana
+git clone https://github.com/novikov-vibe/valera-ohrana ~/.claude/skills/valera-ohrana
 ```
 
 После этого скил подхватится сам, когда просят проверить код на уязвимости,
